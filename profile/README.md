@@ -11,7 +11,7 @@ Running remotely, for a duration of six weeks (part-time), 30-40 participants wi
 # PRIORITIZING LEARNING VS. COMPETITION
 
 ## :warning: **Important** 
-You will find all the info yiu need for this year program, at [this link](https://github.com/WomenPlusPlus/.github/wiki)
+You will find all the info you need for this year program, at [this link](https://github.com/WomenPlusPlus/.github/wiki)
 
 The main focus of deploy(impact) is to give participants the opportunity to gain real-life experience in the full life cycle of software development projects in a supportive and safe space.
 
